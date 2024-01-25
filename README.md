@@ -2,7 +2,7 @@
 
 Despite the name suggesting otherwise, I am Brazilian, currently residing in the beautiful [Teresópolis/RJ](https://www.google.com/search?q=teres%C3%B3polis). I have been working in software development in both industry and academia since 2011.
 
-I am on a personal mission to deliver value through quality software in companies that are doing an awesome jobs in their respective fields. Want examples?
+I am on a personal mission to deliver value through quality software in companies that are doing an awesome job in their respective fields. Want examples?
 
 * :construction_worker: My work with Tintometric Systems at [Controplan](https://grupocontroplan.com.br/)
 * :hospital: My work with Medical Imaging Systems (PACS) at [MV](https://mv.com.br/segmento/medicina-diagnostica)
