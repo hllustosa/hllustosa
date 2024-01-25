@@ -2,11 +2,6 @@
 
 Despite the name suggesting otherwise, I am Brazilian, currently residing in the beautiful [Teresópolis/RJ](https://www.google.com/search?q=teres%C3%B3polis). I have been working in software development in both industry and academia since 2011.
 
-I am passionate about foundational software that does the heavy lifting so that user applications can shine. Need some proof?
-
-* :mortar_board: My undergraduate thesis, the [FeSO Operating System for educational purposes](https://github.com/hllustosa/feso-operating-system), published in [REIC](https://seer.ufrgs.br/index.php/reic/article/view/79913).
-* :mortar_board: My Ph.D. thesis, the [Savime Multidimensional Matrix-based DBMS](https://github.com/hllustosa/Savime), published in [SBBD](https://sol.sbc.org.br/index.php/sbbd/article/view/8810).
-
 I am on a personal mission to deliver value through quality software in companies that are doing an awesome jobs in their respective fields. Want examples?
 
 * :construction_worker: My work with Tintometric Systems at [Controplan](https://grupocontroplan.com.br/)
@@ -22,6 +17,11 @@ I love learning, and my favorite way to learn anything is by teaching. Need evid
 * :green_book: My role as an educator in the Computer Science course at [Unifeso](https://www.unifeso.edu.br/).
 * :tv: This video of me explaining important async programming concepts at [PagarmeTalk](https://www.youtube.com/watch?v=DKNnZmbL0Jk&ab_channel=PagarmeTalks) (portuguese).
 * :+1: The [Comp&Mat](https://compemat.web.app/about) project that I plan to develop more in the future.
+
+I am passionate about foundational software that does the heavy lifting so that user applications can shine. Need some proof?
+
+* :mortar_board: My undergraduate thesis, the [FeSO Operating System for educational purposes](https://github.com/hllustosa/feso-operating-system), published in [REIC](https://seer.ufrgs.br/index.php/reic/article/view/79913).
+* :mortar_board: My Ph.D. thesis, the [Savime Multidimensional Matrix-based DBMS](https://github.com/hllustosa/Savime), published in [SBBD](https://sol.sbc.org.br/index.php/sbbd/article/view/8810).
 
 ## I have been using these tools
 
